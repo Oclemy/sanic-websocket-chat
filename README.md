@@ -1,6 +1,6 @@
 # Sanic Websocket Chat
 
-[![Run on Codely](https://codely.run/python/static/buttons/run-minimal.svg)](https://codely.run/python/projects/sanic-websocket-chat) [![Edit on Codely](https://codely.run/python/static/buttons/browse-minimal.svg)](https://codely.run/python/projects/sanic-websocket-chat) [![View Demo](https://codely.run/python/static/buttons/view_demo-minimal.svg)](https://codely.run/python/projects/sanic-websocket-chat) [![Deploy](https://codely.run/python/static/buttons/deploy-minimal.svg)](https://codely.run/python/projects/sanic-websocket-chat)
+[![Run on Codely](https://codely.run/python/static/buttons/run-minimal.svg)](https://codely.run/python/project/sanic-websocket-chat) [![Edit on Codely](https://codely.run/python/static/buttons/browse-minimal.svg)](https://codely.run/python/projects/sanic-websocket-chat) [![View Demo](https://codely.run/python/static/buttons/view_demo-minimal.svg)](https://codely.run/python/project/sanic-websocket-chat) [![Deploy](https://codely.run/python/static/buttons/deploy-minimal.svg)](https://codely.run/python/project/sanic-websocket-chat)
 
 Hello this is a Single-file Sanic app with the full chat frontend embedded. It's features: join screen, color-coded usernames, typing indicators, auto-reconnect, chat history (last 50 on join), online count, dark responsive UI.
 
